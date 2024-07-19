@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ecommerce_flutter_admin
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# e_commerce_admin_flutter
+E-ticaret mobil uygulaması admin paneli
+>>>>>>> b347eb6457aa26978936d7280d6b4b5628df58e4
